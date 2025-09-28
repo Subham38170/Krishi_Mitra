@@ -128,14 +128,6 @@ A smart advisory solution can empower farmers with scientific insights in their 
 
 ---
 
-## Team
-
-**Subham Sahu** – Developer & Data Scientist  
-
-**GitHub:** [https://github.com/Subham38170](https://github.com/Subham38170)  
-
----
-
 ## Acknowledgments
 
 - Government Agricultural Departments for datasets  
