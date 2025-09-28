@@ -73,11 +73,4 @@ The system offers:
 4. **Decision Making:**  
    Farmers can make informed decisions on crop selection, fertilizer use, and selling strategy.
 
----
 
-## How to Use
-
-1. **Clone the Repository:**
-```bash
-git clone https://github.com/Subham38170/Krishi_Mitra.git
-cd Krishi_Mitra
