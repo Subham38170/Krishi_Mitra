@@ -58,3 +58,8 @@
   <img src="Pages/Agri_News.jpg" alt="Agri News Page" width="300" height="600">
   <p>The Agri News section keeps farmers informed with the latest agricultural updates, policies, and market movements relevant to their sector (e.g., Food Ministry Pacts). This centralized news feed ensures users remain aware of important government initiatives, subsidy changes, and industry trends that affect their livelihood.</p>
 </div>
+
+<div align="center">
+    <img src="Pages/Feed_back.jpg" alt="Feedback Page" width="300" height="600">
+    <p>The Feedback page, titled **Your experience (Feedback)**, provides a simple, structured form for user input, including text fields for "What did you like?", "Are there any issues?", and "What can be improved?". Critically, it includes a simple emoji-based rating (Good, Okay, Bad) and **voice input icons** next to each field to ensure accessibility for low-literate farmers.</p>
+</div>
