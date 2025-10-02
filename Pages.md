@@ -54,7 +54,7 @@
 
 ---
 
-<div align="center">
+<div align="">
   <img src="Pages/Agri_News.jpg" alt="Agri News Page" width="300" height="600">
   <p>The Agri News section keeps farmers informed with the latest agricultural updates, policies, and market movements relevant to their sector (e.g., Food Ministry Pacts). This centralized news feed ensures users remain aware of important government initiatives, subsidy changes, and industry trends that affect their livelihood.</p>
 </div>
