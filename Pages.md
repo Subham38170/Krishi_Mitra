@@ -61,7 +61,7 @@
 
 ---
 
-<div align="center">
+<div align="">
     <img src="Pages/Feed_back.jpg" alt="Feedback Page" width="300" height="600">
     <p>The Feedback page, titled Your experience (Feedback), provides a simple, structured form for user input, including text fields for "What did you like?", "Are there any issues?", and "What can be improved?". Critically, it includes a simple emoji-based rating (Good, Okay, Bad) and voice input icons next to each field to ensure accessibility for low-literate farmers.</p>
 </div>
