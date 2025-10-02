@@ -7,7 +7,7 @@
 
 <div align="center">
   <img src="Pages/Home_Page.jpg" alt="Home Page" width="300" height="600">
-  <p>The Krishi Mitra Home Page acts as a personalized dashboard, instantly displaying the user's location and a multiple-day weather forecast critical for farming decisions. Below the weather, a carousel highlights key agricultural government schemes (like PMFBY), followed by tailored Suggested Crops recommendations, all accessible via a clean navigation bar.</p>
+  <p>The Krishi Mitra Home Page acts as a personalized dashboard, instantly displaying the user's location and a two-day weather forecast critical for farming decisions. Below the weather, a carousel highlights key agricultural government schemes (like PMFBY), followed by tailored Suggested Crops recommendations, all accessible via a clean navigation bar.</p>
 </div>
 
 ---
@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="Pages/Disease_Prediction.jpg" alt="Disease Prediction Page" width="300" height="600">
-  <p>The Disease Prediction feature uses image of leaf and crop analysis to instantly identify a plant ailment providing the diagnosis, confidence level, simple description, and actionable Treatment and Precautions steps. This tool gives farmers rapid, science-backed advice to minimize crop loss.</p>
+  <p>The Disease Prediction feature uses image analysis to instantly identify a plant ailment (e.g., Leaf Blight), providing the diagnosis, confidence level, simple description, and actionable Treatment and Precautions steps. This tool gives farmers rapid, science-backed advice to minimize crop loss.</p>
 </div>
 
 ---
@@ -59,7 +59,9 @@
   <p>The Agri News section keeps farmers informed with the latest agricultural updates, policies, and market movements relevant to their sector (e.g., Food Ministry Pacts). This centralized news feed ensures users remain aware of important government initiatives, subsidy changes, and industry trends that affect their livelihood.</p>
 </div>
 
+---
+
 <div align="center">
     <img src="Pages/Feed_back.jpg" alt="Feedback Page" width="300" height="600">
-    <p>The Feedback page, titled **Your experience (Feedback)**, provides a simple, structured form for user input, including text fields for "What did you like?", "Are there any issues?", and "What can be improved?". Critically, it includes a simple emoji-based rating (Good, Okay, Bad) and **voice input icons** next to each field to ensure accessibility for low-literate farmers.</p>
+    <p>The Feedback page, titled Your experience (Feedback), provides a simple, structured form for user input, including text fields for "What did you like?", "Are there any issues?", and "What can be improved?". Critically, it includes a simple emoji-based rating (Good, Okay, Bad) and voice input icons next to each field to ensure accessibility for low-literate farmers.</p>
 </div>
