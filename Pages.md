@@ -1,1 +1,4 @@
-![Login_Page](./Pages/Login_page.jpg "The Krishi Mitra Login Page provides a clean, user-friendly gateway to the smart advisory system, featuring input fields for Email and Password against a relevant background of a sprinkler-irrigated field. A prominent Language Selector and a link to Create an account ensure simple, accessible onboarding for all small and marginal farmers.")
+<div align="center">
+  <img src="Pages/Login_Page.jpg" alt="Login Page" width="300">
+  <p>The Krishi Mitra Login Page provides a clean, user-friendly gateway for farmers.</p>
+</div>
